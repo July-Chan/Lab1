@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Visual Studio\2_14\2_14\Source.cpp(37,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\2_14\2_14\Source.cpp(43,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\2_14\2_14\Source.cpp(50,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Visual Studio\2_14\2_14\Source.cpp(65,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\2_14\2_14\Source.cpp(71,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Visual Studio\2_14\2_14\Source.cpp(78,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  2_14.vcxproj -> D:\Visual Studio\2_14\x64\Debug\2_14.exe
